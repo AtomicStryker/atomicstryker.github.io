@@ -4,7 +4,7 @@ Welcome! All my Minecraft works are open source and viewable here in this github
 
 If you are looking for downloadable binaries however, curse would be the place to go.
 
-### Links to curse projects [for current Minecraft version 1.18.2]
+### Links to curse projects:
 
 ![Infernal Mobs logo](/docs/assets/images/infernalmobs.jpg)
 
