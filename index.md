@@ -1,6 +1,7 @@
 ## AtomicStrykers github.io
 
-Welcome! All my Minecraft works are open source and viewable here in this github repository
+Welcome! All my Minecraft works are free and open source, in 
+[this github repository](https://github.com/AtomicStryker/atomicstrykers-minecraft-mods)
 
 If you are looking for downloadable binaries however, curse would be the place to go.
 
